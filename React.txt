@@ -1,0 +1,23 @@
+Syllabus
+========
+-ReactJs features (VirtualDOM , ReConciliation)
+-Local Environemnt Setup
+-Create-react-app
+-JSX
+-Class Components
+-Functional Components
+-React Object - Fragment
+-Component Styling
+-Conditional rendering
+-Lists & keys
+-Props : de-structuring,requiring props, proptypes,default props
+-State : 
+-Pure Component
+-Memo Component
+-HigherOrder Component
+-Events : Synthetic Event
+-Lifecycle Hooks
+-Form
+-Http - Axios
+-Interceptors
+-Routing
